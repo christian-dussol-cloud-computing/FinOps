@@ -24,4 +24,4 @@ Engineering, Finance, Product teams and Leadership looking to implement FinOps p
 
 ---
 
-*"FinOps is an Operational framework that enables organizations to get maximum business value from cloud investments."*
+*"FinOps is an operational framework that enables organizations to get maximum business value from cloud investments."*
