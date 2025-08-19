@@ -24,4 +24,4 @@ Engineering, Finance, Product teams and Leadership looking to implement FinOps p
 
 ---
 
-*"The goal of FinOps is maximizing business value through intelligent cloud financial management"*
+*"FinOps is an Operational framework that enables organizations to get maximum business value from cloud investments."*
